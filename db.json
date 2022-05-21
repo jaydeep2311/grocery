@@ -1,0 +1,134 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "id": 1,
+    "name": "typicode"
+  },
+  "grocery": [
+    {
+      "item": "juice",
+      "qty": "2",
+      "price": "20",
+      "desc": "healthy meal",
+      "id": 2
+    },
+    {
+      "item": "carrot",
+      "qty": "1",
+      "price": "10",
+      "desc": "slad",
+      "id": 3
+    },
+    {
+      "item": "dosa",
+      "qty": "1",
+      "price": "10",
+      "desc": "slad",
+      "id": 4
+    },
+    {
+      "item": "chicken",
+      "qty": "1",
+      "price": "10",
+      "desc": "slad",
+      "id": 5
+    },
+    {
+      "item": "bevarage",
+      "qty": "1",
+      "price": "10",
+      "desc": "slad",
+      "id": 6
+    },
+    {
+      "item": "lentils",
+      "qty": "1",
+      "price": "10",
+      "desc": "slad",
+      "id": 7
+    },
+    {
+      "item": "wheat",
+      "qty": "1",
+      "price": "10",
+      "desc": "slad",
+      "id": 8
+    },
+    {
+      "item": "lassi",
+      "qty": "1",
+      "price": "10",
+      "desc": "slad",
+      "id": 9
+    },
+    {
+      "item": "cake",
+      "qty": "1",
+      "price": "10",
+      "desc": "slad",
+      "id": 10
+    },
+    {
+      "item": "soup",
+      "qty": "1",
+      "price": "10",
+      "desc": "slad",
+      "id": 10
+    },
+    {
+      "item": "chineese",
+      "qty": "1",
+      "price": "10",
+      "desc": "slad",
+      "id": 11
+    },
+    {
+      "item": "dahi",
+      "qty": "1",
+      "price": "10",
+      "desc": "slad",
+      "id": 12
+    },
+    {
+      "item": "milk",
+      "qty": "1",
+      "price": "10",
+      "desc": "slad",
+      "id": 13
+    },
+    {
+      "item": "chocalte",
+      "qty": "1",
+      "price": "10",
+      "desc": "slad",
+      "id": 14
+    },
+    {
+      "item": "papad",
+      "qty": "1",
+      "price": "10",
+      "desc": "slad",
+      "id": 14
+    },
+    {
+      "item": "soft drink",
+      "qty": "1",
+      "price": "10",
+      "desc": "slad",
+      "id": 15
+    }
+  ]
+}

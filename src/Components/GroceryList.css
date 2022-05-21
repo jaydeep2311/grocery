@@ -1,0 +1,14 @@
+input {
+  width: 300px;
+  height: 30px;
+  margin: 1%;
+}
+.btn {
+  width: 200px;
+  height: 40px;
+  border: 1px solid black !important;
+}
+span:hover {
+  border: 1px solid black;
+  cursor: pointer;
+}
